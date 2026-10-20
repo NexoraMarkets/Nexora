@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+/data/
+/data.db
+/data.db-shm
+/data.db-wal
+/uploads/*
+!/uploads/.gitkeep
+.DS_Store
+Thumbs.db
